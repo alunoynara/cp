@@ -1,3 +1,3 @@
 # cp
 
-testes
+testes=
